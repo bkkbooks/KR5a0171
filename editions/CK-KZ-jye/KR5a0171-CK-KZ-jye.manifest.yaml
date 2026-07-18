@@ -28,11 +28,11 @@ assets:
   - {seq: 3, filename: KR5a0171_003-CK-KZ-jye.yaml, hash: 'sha256:6aa737bd20fd8c9fd604dc64224ec7eccb42751a281e8f4cc2972b7403c0c6f0'}
   - {seq: 4, filename: KR5a0171_004-CK-KZ-jye.yaml, hash: 'sha256:da5692891cadb89256f38e3b56c315dc93d330e2d371ca6c83934a8fefbbca41'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR5a0171_000-CK-KZ-jye.markers.yaml, hash: 'sha256:435485224c388414def05da696a1cf7c51cdfbbef81b82cd7ba5d2ce0eef8338'}
-  - {seq: 1, role: markers, filename: assets/KR5a0171_001-CK-KZ-jye.markers.yaml, hash: 'sha256:a9b53de59c48e63b053146fbe626f29d3753f045deb2be0538b8a89cd221b5b8'}
-  - {seq: 2, role: markers, filename: assets/KR5a0171_002-CK-KZ-jye.markers.yaml, hash: 'sha256:f714011334e12e3db51d78495e6083668a9a9a87bb247fe9e0186938e4c002e3'}
-  - {seq: 3, role: markers, filename: assets/KR5a0171_003-CK-KZ-jye.markers.yaml, hash: 'sha256:aaaac37b42b7d2c8267c243b70a82abb6053b23d949262030d34433b14edd029'}
-  - {seq: 4, role: markers, filename: assets/KR5a0171_004-CK-KZ-jye.markers.yaml, hash: 'sha256:71f6d9c1951023cb1b2b7c26bd478330af9043e45a6fdc833854d1122f047d28'}
+  - {seq: 0, role: markers, filename: assets/KR5a0171_000-CK-KZ-jye.markers.yaml, hash: 'sha256:94adf7ff6f8671a599213452ffbcc9a65548b091f37b641ddd5d2bfc3c4a8182'}
+  - {seq: 1, role: markers, filename: assets/KR5a0171_001-CK-KZ-jye.markers.yaml, hash: 'sha256:73bede81d7ea37375527f1f97e64efeb07417019a9f0f9fc2d4481d09be65ff1'}
+  - {seq: 2, role: markers, filename: assets/KR5a0171_002-CK-KZ-jye.markers.yaml, hash: 'sha256:c286144a7f095a76cc2f028f6ed7c0647293876f0a6389db76ab0b4f77e7cfe4'}
+  - {seq: 3, role: markers, filename: assets/KR5a0171_003-CK-KZ-jye.markers.yaml, hash: 'sha256:102bb4fa9f00a428613237b877ce1bff48cf77f658af9264746fe2655fef3249'}
+  - {seq: 4, role: markers, filename: assets/KR5a0171_004-CK-KZ-jye.markers.yaml, hash: 'sha256:9673c2096685d8382517c3cc2fcd00355685d5d349bdf787784bdd9c585b4e7e'}
 table_of_contents:
 - ref:
     seq: 0
@@ -84,4 +84,4 @@ table_of_contents:
   label: juan 004
   type: section
   level: 1
-hash: sha256:f1a8e5bea19c4690c887ce9285ae93a4ab212b9031c7b547e652a62f301ff85e
+hash: sha256:6903c2e34526c5d5302c346ed7560281446b81a21ce9284c61c52779aa53468f
